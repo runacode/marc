@@ -1,7 +1,7 @@
-<?php $company = "SHERRY HILL PAINTING LLC";
-$phone = "(631) 968-6669";
-	$address1 = "1102 QUEENS PLZ S";
-	$address2 = "LONG ISLAND CITY, NY 11101";
+<?php $company = "MARC JAMES PLUMBING";
+$phone = "(909) 567-5363";
+	$address1 = "5804 N MAYFIELD AVE";
+	$address2 = "SAN BERNARDINO, CA 92407";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
